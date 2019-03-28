@@ -8,8 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="textview">Hello World!</style>
-
-    <style name="button">bigger</style>
-
 </resources>
